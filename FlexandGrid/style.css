@@ -1,0 +1,41 @@
+/* body{
+    background-color: aquamarine;
+} */
+.container{
+    display: grid;
+    /* grid-template-columns: 200px 300px 400px; *//
+    grid-template-columns:
+    grid-template-rows: 200px 500px 200px;
+    border: 1px solid red;
+    
+}
+.child1{
+    border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+
+
+}
+.child2{
+     border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: maroon;
+
+    
+}
+.child3{
+     border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    
+}
+.child4{
+     border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: orangered;
+    
+}
